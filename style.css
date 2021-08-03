@@ -1,0 +1,79 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#zoo
+{
+    background-color:violet;
+    font-size: 20;
+    padding-left:200px;
+    padding-right: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    color: whitesmoke;
+}
+#bottle
+{
+    background-color:violet;
+    font-size: 20;
+    padding-left:155px;
+    padding-right: 155px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    color: whitesmoke;
+}
+#TA
+{
+    background-color:violet;
+    font-size: 20;
+    padding-left: 170px;
+    padding-right:170px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    color: whitesmoke;
+}
+#fruit
+{
+    background-color:violet;
+    font-size: 20;
+    padding-left:165px;
+    padding-right: 165px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    color: whitesmoke;
+}
+#bedroom
+{
+    background-color:violet;
+    font-size: 20;
+    padding-left:175px;
+    padding-right: 175px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    color: whitesmoke;
+}
