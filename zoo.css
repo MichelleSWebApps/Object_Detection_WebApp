@@ -1,0 +1,33 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+}
+
+#back
+{
+    background-color: violet;
+    color: white;
+    font-size: 25px;
+    float:right;
+}
+
+#back:hover
+{
+    background-color: white;
+    color: violet;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
